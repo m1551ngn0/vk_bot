@@ -1,0 +1,27 @@
+{
+    "one_time": false,
+    "buttons": [
+      [{
+        "action": {
+          "type": "text",
+          "label": "Наши цены"
+        },
+        "color": "primary"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "Железо"
+        },
+        "color": "primary"
+      },
+        {
+          "action": {
+            "type": "text",
+            "label": "В начало"
+          },
+          "color": "secondary"
+        }]
+      
+    ]
+  }

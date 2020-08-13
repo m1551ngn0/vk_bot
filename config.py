@@ -1,0 +1,2 @@
+api_token = '2a58b9d26122cc0ca034cb2d2ab2ff78b21080f30badac099d6bc5e485ae7b35ff34cefcb7349229de5ee'
+vk_group_id = 197434146
