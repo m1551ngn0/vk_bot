@@ -13,7 +13,7 @@ class Database:
         """Если не существует БД подписавшихся на рассылку, то созадет ее.
         Со столбацами: _id - счетчик, userID - id пользователя ВК,
         isUserAccept - логический тип 0/1 (не подписан/подписан).
-        
+
         """
         self.cur.execute("\
         CREATE TABLE IF NOT EXISTS 'acceptedIDs' (\
